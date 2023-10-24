@@ -1,0 +1,8 @@
+C:\Users\HP\OneDrive\Рабочий стол\Учеба\ClassAndObjects\ClassAndObjects\bin\Debug\ClassAndObjects.exe.config
+C:\Users\HP\OneDrive\Рабочий стол\Учеба\ClassAndObjects\ClassAndObjects\bin\Debug\ClassAndObjects.exe
+C:\Users\HP\OneDrive\Рабочий стол\Учеба\ClassAndObjects\ClassAndObjects\bin\Debug\ClassAndObjects.pdb
+C:\Users\HP\OneDrive\Рабочий стол\Учеба\ClassAndObjects\ClassAndObjects\obj\Debug\ClassAndObjects.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Рабочий стол\Учеба\ClassAndObjects\ClassAndObjects\obj\Debug\ClassAndObjects.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Рабочий стол\Учеба\ClassAndObjects\ClassAndObjects\obj\Debug\ClassAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\Учеба\ClassAndObjects\ClassAndObjects\obj\Debug\ClassAndObjects.exe
+C:\Users\HP\OneDrive\Рабочий стол\Учеба\ClassAndObjects\ClassAndObjects\obj\Debug\ClassAndObjects.pdb
